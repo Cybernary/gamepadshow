@@ -6,7 +6,7 @@ This is just an HTML file with an inline SVG (also available as a standalone fil
 
 1. Download the HTML file
 1. Change the SVG if you want, just remember to keep the elements names.
-1. Under **Configuration** you'll find an array that contains teh buttons name, the color on press and the original button color. Change that as you wish.
+1. Under **Configuration** you'll find an array that contains the buttons name, the color on press and the original button color. Change that as you wish.
 1. `limit` is your joysticks movement range. Change it as you need.
 1. `speed` is your joysticks movement speed. Change it as you need.
 1. Once you're done with your changes, you can use the HTML file to show how you play with the gamepad on your streams. Check your streaming software on [how to add a navigation source. This example is for Streamlabs OBS](https://blog.streamlabs.com/introducing-browser-source-interaction-for-streamlabs-obs-d8fc4dcbb1fb#:~:text=How%20to%20add%20a%20Browser,the%20browser%20source%20settings%20menu.)
